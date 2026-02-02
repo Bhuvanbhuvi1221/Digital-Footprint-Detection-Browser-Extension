@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Digital Footprint</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      width: 300px;
+      padding: 10px;
+      background: #0f172a;
+      color: #e5e7eb;
+    }
+    h2 {
+      text-align: center;
+      color: #38bdf8;
+    }
+    .box {
+      background: #020617;
+      padding: 8px;
+      margin: 8px 0;
+      border-radius: 6px;
+      font-size: 13px;
+    }
+    span {
+      color: #22c55e;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <h2>🕵️ Digital Footprint</h2>
+
+  <div class="box">Cookies: <span id="cookies">0</span></div>
+  <div class="box">Local Storage Keys: <span id="local">0</span></div>
+  <div class="box">Session Storage Keys: <span id="session">0</span></div>
+  <div class="box">Third-Party Requests: <span id="thirdparty">0</span></div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
