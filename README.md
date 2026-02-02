@@ -63,6 +63,7 @@ Go to:
    Visit any website and click the extension icon to view results 🎉
 
 📊 Example Output
+
 Cookies: 10
 
 Local Storage Keys: 3
@@ -72,27 +73,41 @@ Session Storage Keys: 2
 Third-Party Requests: 15
 
 🔒 Permissions Used
+
 Permission	Purpose
+
 tabs	Access current website
+
 cookies	Analyze cookies
+
 scripting	Execute scripts on pages
+
 storage	Store extension data
+
 host_permissions	Access all URLs
 
 🎯 Use Cases
 
 Privacy awareness
+
 Cybersecurity learning
+
 Academic projects
+
 Resume & portfolio showcase
+
 Understanding web tracking behavior
 
 🧩 Future Enhancements
 
    Tracker name identification (Google Ads, Meta, etc.)
+   
    Privacy risk scoring system
+   
    Export analysis report (PDF/CSV)
+   
    Firefox compatibility
+   
    User notification alerts
 
 📜 License
