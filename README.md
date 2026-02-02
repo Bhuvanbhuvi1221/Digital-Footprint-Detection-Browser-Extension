@@ -64,8 +64,11 @@ Go to:
 
 📊 Example Output
 Cookies: 10
+
 Local Storage Keys: 3
+
 Session Storage Keys: 2
+
 Third-Party Requests: 15
 
 🔒 Permissions Used
